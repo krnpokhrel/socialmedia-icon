@@ -1,0 +1,50 @@
+[33mcommit 54dfa105b166cb19a358c1cef26599827890cbd0[m[33m ([m[1;36mHEAD -> [m[1;32mnewicon[m[33m, [m[1;31morigin/newicon[m[33m)[m
+Author: Kiran Pokhrel <krnpokhrel@gmail.com>
+Date:   Wed Oct 14 18:49:45 2020 +0545
+
+    meetup icon added
+
+[33mcommit 45b90448d676623e2cfa5eb08798a05e89bc93c6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Merge: 103b2cb 6940be2
+Author: Ananta Mishra <mishraananta2017@gmail.com>
+Date:   Mon Oct 5 12:40:58 2020 +0545
+
+    Merge pull request #1 from kooolarpan/master
+    
+    Added Open in New Tab And Formatted index.html
+
+[33mcommit 6940be2e3b0b80dbd5eb94f9b17c58f5e40e09de[m
+Author: Kool Arpan <koolrapperarpan@gmail.com>
+Date:   Mon Oct 5 12:37:56 2020 +0545
+
+    Added Open in New Tab And Formatted index.html
+
+[33mcommit 103b2cbeed85a77414055cb838de9bcabeecc29c[m
+Author: Ananta Mishra <mishraananta2017@gmail.com>
+Date:   Sun Apr 19 21:14:24 2020 +0545
+
+    Update index.html
+
+[33mcommit 251fa7653daa0fcfb2b1549f7a2469613fef47c9[m
+Author: Ananta Mishra <mishraananta2017@gmail.com>
+Date:   Sun Apr 19 21:12:51 2020 +0545
+
+    Update index.html
+
+[33mcommit be0f266be71cd142ab90bae3b71135b6ceec5d9f[m
+Author: Ananta Mishra <mishraananta2017@gmail.com>
+Date:   Sun Apr 19 21:04:55 2020 +0545
+
+    Create style.css
+
+[33mcommit bca3b6fb7237663c2a923aa348683f86d6d0d6d9[m
+Author: Ananta Mishra <mishraananta2017@gmail.com>
+Date:   Sun Apr 19 21:04:00 2020 +0545
+
+    Create index.html
+
+[33mcommit fdebb41be0672804a51933089d26b0bfbcb2d4a5[m
+Author: Ananta Mishra <mishraananta2017@gmail.com>
+Date:   Sun Apr 19 20:50:41 2020 +0545
+
+    Initial commit
